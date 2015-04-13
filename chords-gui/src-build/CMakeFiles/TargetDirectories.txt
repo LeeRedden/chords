@@ -1,0 +1,1 @@
+/home/lee/code/chords/qt-cmake-gui-template/src-build/CMakeFiles/cmakeqt.dir

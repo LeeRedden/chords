@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG    CMakeFiles/cmakeqt.dir/main.cpp.o CMakeFiles/cmakeqt.dir/CMakeQt.cpp.o CMakeFiles/cmakeqt.dir/moc_CMakeQt.cxx.o CMakeFiles/cmakeqt.dir/qrc_resources.cxx.o  -o /home/lee/code/chords/qt-cmake-gui-template/src/bin/cmakeqt -rdynamic -lQtCore -lQtGui -lQtSvg -lQtNetwork -lQtXml -lopenal 

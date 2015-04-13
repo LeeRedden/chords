@@ -1,0 +1,12 @@
+-I/usr/include/qt4
+-I/usr/include/qt4/QtGui
+-I/usr/include/qt4/QtCore
+-I/home/lee/code/chords/qt-cmake-gui-template/src-build
+-I/home/lee/code/chords/qt-cmake-gui-template/src-build/src
+-I/usr/include/AL
+-I/home/lee/code/chords/qt-cmake-gui-template/src/.
+-DQT_GUI_LIB
+-DQT_CORE_LIB
+-o
+/home/lee/code/chords/qt-cmake-gui-template/src-build/moc_CMakeQt.cxx
+/home/lee/code/chords/qt-cmake-gui-template/src/CMakeQt.h
